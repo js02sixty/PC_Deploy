@@ -1,4 +1,3 @@
-
 =============
 PC Deploy 1.0
 =============
@@ -34,6 +33,6 @@ Run Script
 4. After a few minutes to allow PC to reboot, Select Step 2.
       This step moves the PC to the specified branch, Adds the specified default user to the local admin group and remote desktop user's group, and reboots the PC.
 5. Step 3 Automatically opens a RDP session for each user to help quickly create the user account for the first time.
-6. Disable the local policy “Network access: Do not allow storage of passwords and credentials for network authentication” with GPEDIT.msc. it is located in “Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options\”
+6. Disable the local policy ï¿½Network access: Do not allow storage of passwords and credentials for network authenticationï¿½ with GPEDIT.msc. it is located in ï¿½Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options\ï¿½
 7. This optional step will begin copying the backup files from the server down to the PCs.
 
