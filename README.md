@@ -18,7 +18,7 @@ create CSV file in this format (You can use MS Excel):
 
   PC,Branch,User,PW
   MXLXXXXXXX,ph,jdoe,password
-  MXLXXXXXXY,kq,jschmo,passwd
+  MXLXXXXXXY,kq,jschmo,password
 
 * not all PCs in the list need a user and Password
 
